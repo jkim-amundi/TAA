@@ -1,2 +1,5 @@
-# TAA-Report
-taa results output (charts, tables)
+# TAA
+1. econ backdrop
+2. technical
+3. risk combo
+4. report
